@@ -6,7 +6,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{BAFAE694-CFFC-482A-9530-ADCF229D4019}</ProjectGuid>
+    <ProjectGuid>{893B1EA9-3819-49AF-9257-EAB539D8C651}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>RyanShop.WebUI.Tests</RootNamespace>
@@ -93,7 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\RyanShop.WebUI\RyanShop.WebUI.csproj">
-      <Project>{64C91097-6259-4262-BD24-8DCCABC716CC}</Project>
+      <Project>{09BB4B7B-1265-4995-B7CD-448BE30B2807}</Project>
       <Name>RyanShop.WebUI</Name>
     </ProjectReference>
   </ItemGroup>
